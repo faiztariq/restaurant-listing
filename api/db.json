@@ -1,0 +1,16 @@
+{
+  "listings": [
+    {
+      "id": "1",
+      "restaurant": "My Restaurant",
+      "status": "Available",
+      "opensAt": 1755504182548
+    },
+    {
+      "id": "2",
+      "restaurant": "My Restaurant 2",
+      "status": "Unavailable",
+      "opensAt": 1755561600000
+    }
+  ]
+}
