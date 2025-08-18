@@ -32,4 +32,6 @@ cd ui
 yarn dev
 ```
 
-Open a web browser and go to `http://localhost:4200`
+- Open a web browser and go to `http://localhost:4200`
+- Hit the `Refresh` Button for the UI to post new Data
+- Hard Reload `Ctrl/⌘ + Shift + R` for new Data to show up
